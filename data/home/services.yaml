@@ -2,26 +2,37 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  # title: "Apps"
   cards:
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/gb.webp"
+      title: "Grocery Board"
+      text: |
+        Grocery Board is the simplest app for collaborating on a shopping list with your family or roommates.
+        Share across unlimited number of devices and other Grocery Board users. 
+        100% free. No Ads. 
+        Changes show up instantly on all shared devices.
       button:
-        label: "Learn more"
+        label: "Go To Grocery Board"
+        url: "https://groceryboard.io"
+
+    - image: "images/services-web-development.png"
+      title: "Budget Board (Coming Soon)"
+      text: |
+        Budget Board is the simplest app for collaborating on a budget with your family.
+        Share across unlimited number of devices and other Budget Board users. 
+        100% free. No Ads. 
+        Changes show up instantly on all shared devices."
+      button:
+        label: "Coming Soon"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Workout Board (Coming Soon)"
+      text: |
+        Workout Board is the simplest app for collaborating on a workout plan with your friends.
+        Share across unlimited number of devices and other Workout Board users. 
+        100% free. No Ads. 
+        Changes show up instantly on all shared devices."
       button:
-        label: "Learn more"
-        url: "#"
-
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-      button:
-        label: "Learn more"
+        label: "Coming Soon"
         url: "#"
