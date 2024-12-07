@@ -6,12 +6,19 @@ on:
   push:
     branches:
       - main
+
 jobs:
-  build_and_deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - run: sh deploy.sh
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up DevContainer
+        uses: devcontainers/ci@v0.3
+        with:
+          runCmd: sh deploy.sh
+
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
