@@ -1,14 +1,14 @@
-baseURL: "https://www.example.com/"
+baseURL: "https://www.elexient.com/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Up Business"
+title: "Elexient"
 
 summaryLength: 20
 
 params:
-  title: "Up Business"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  title: "Elexient"
+  description: "An app development company."
   images: 
     - "images/hero-image.png"
 
