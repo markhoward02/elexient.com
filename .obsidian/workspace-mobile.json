@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about.md",
+                "file": "content/contact.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "contact"
             }
           }
         ]
@@ -171,7 +171,7 @@
   "active": "78036aeb437976cb",
   "lastOpenFiles": [
     "content/homepage/about.md",
-    "content/about.md",
+    "content/contact.md",
     "README.md"
   ]
 }
