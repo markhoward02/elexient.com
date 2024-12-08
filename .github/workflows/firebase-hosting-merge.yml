@@ -24,8 +24,9 @@ jobs:
 
       - name: Set up DevContainer
         uses: devcontainers/ci@v0.3
-        imageName: ghcr.io/markhoward02/elexient-com-devcontainer
         with:
+          imageName: ghcr.io/markhoward02/elexient-com-devcontainer
+          cacheFrom: ghcr.io/markhoward02/elexient-com-devcontainer
           runCmd: sh deploy.sh
 
       - uses: FirebaseExtended/action-hosting-deploy@v0
