@@ -28,9 +28,10 @@ jobs:
         uses: devcontainers/ci@v0.3
         with:
           imageName: ghcr.io/markhoward02/elexient-com-devcontainer
-          cacheFrom: ghcr.io/markhoward02/elexient-com-devcontainer
+          imageTag: cache
+          cacheFrom: ghcr.io/markhoward02/elexient-com-devcontainer:cache
           runCmd: sh deploy.sh
-          push: never
+          push: always
 
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
