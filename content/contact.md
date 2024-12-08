@@ -9,10 +9,14 @@ aliases:
 author: Hugo Authors
 ---
 
-An app development company. 
+### Location
+493 Crestmont Ln Canton, Georgia 30114
 
-Thanks for dropping by. 
+### Phone
++1 770-405-9934
+
+### Email
+mark@elexient.com
 
 Please visit groceryboard.io for Grocery Board support. 
-
 
