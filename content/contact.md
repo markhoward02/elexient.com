@@ -18,5 +18,6 @@ author: Hugo Authors
 ### Email
 mark@elexient.com
 
-Please visit groceryboard.io for Grocery Board support. 
+Please visit [groceryboard.io](https://groceryboard.io) for Grocery Board support.
+
 
