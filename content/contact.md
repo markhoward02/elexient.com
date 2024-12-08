@@ -19,6 +19,4 @@ Canton, Georgia 30114
 ### Email
 mark@elexient.com
 
-Please visit [groceryboard.io](https://groceryboard.io) for Grocery Board support.
-
-
+Please visit [groceryboard.io](https://groceryboard.io) for Grocery Board questions. Also check out the FAQ there. 

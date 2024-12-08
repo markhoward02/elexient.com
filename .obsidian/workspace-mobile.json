@@ -170,6 +170,8 @@
   },
   "active": "78036aeb437976cb",
   "lastOpenFiles": [
+    "content/archives.md",
+    "content/contact.md",
     "/content/contact.md",
     "content/homepage/about.md",
     "archetypes/default.md",
@@ -178,7 +180,6 @@
     "README.md",
     "themes/up-business-theme/README.md",
     "themes/up-business-theme/static/images/hero-image.png",
-    "resources/_gen/images/images/logo_hu12695269961134077030.png",
-    "content/contact.md"
+    "resources/_gen/images/images/logo_hu12695269961134077030.png"
   ]
 }
