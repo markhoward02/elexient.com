@@ -6,11 +6,13 @@ aliases:
   - about-us
   - about-hugo
   - contact
-author: Hugo Authors
+author: Mark Howard
 ---
 
 ### Location
-493 Crestmont Ln Canton, Georgia 30114
+493 Crestmont Ln
+
+Canton, Georgia 30114
 
 ### Phone
 +1 770-405-9934
@@ -18,6 +20,4 @@ author: Hugo Authors
 ### Email
 mark@elexient.com
 
-Please visit [groceryboard.io](https://groceryboard.io) for Grocery Board support.
-
-
+Please visit [groceryboard.io](https://groceryboard.io) for Grocery Board questions. Also check out the FAQ there. 

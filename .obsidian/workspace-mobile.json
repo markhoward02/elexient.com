@@ -15,7 +15,7 @@
               "state": {
                 "file": "content/contact.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "contact"
@@ -170,8 +170,16 @@
   },
   "active": "78036aeb437976cb",
   "lastOpenFiles": [
-    "content/homepage/about.md",
+    "content/archives.md",
     "content/contact.md",
-    "README.md"
+    "/content/contact.md",
+    "content/homepage/about.md",
+    "archetypes/default.md",
+    "content/post/emoji-support.md",
+    "content/post/_index.md",
+    "README.md",
+    "themes/up-business-theme/README.md",
+    "themes/up-business-theme/static/images/hero-image.png",
+    "resources/_gen/images/images/logo_hu12695269961134077030.png"
   ]
 }
